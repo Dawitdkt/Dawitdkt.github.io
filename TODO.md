@@ -28,3 +28,9 @@
 - [x] Keep every private repository private; show public-facing summaries without direct links to private source.
 - [x] Base project claims on repository evidence and flag incomplete documentation or unverified implementation status.
 - [x] Present additional project cards in the responsive portfolio layout.
+
+## Owner clarifications from the shared ChatGPT conversation
+- [x] Describe HMS as complete with all major modules implemented and list MySQL as its database.
+- [x] Describe Agent Droid as ongoing, with implemented screen understanding and accessibility integration, and an on-device Gemma model.
+- [x] Describe Lens Bloom's photographer booking, gallery and print-selection functions, with functional frontend/backend and Firebase backend.
+- [x] Describe Wezi as an under-development Flutter platform for real-estate developers selling homes to buyers.
